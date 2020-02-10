@@ -3,4 +3,4 @@ class Shoe
   def initisnlize(brand)
 end
 end
-Shoe.new("Guccie")
+Shoe.new("Nike")
